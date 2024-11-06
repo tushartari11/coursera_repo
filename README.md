@@ -1,2 +1,2 @@
-# coursera_repo
+# coursera_repo minor update!
 Repo for Coursera Git Tutorials
